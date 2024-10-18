@@ -22,3 +22,8 @@ class SignUpTestRunner
 	
 }
 
+class SearchTestRunner 
+{
+	
+}
+
